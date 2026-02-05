@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PLY-001",
+    "name": "Kylian Mbappé",
+    "description": "Explosive forward known for elite acceleration, sharp movement between lines, and clinical finishing in transition-heavy systems.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1998-12-20",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/mbappe.png",
+    "position": "Forward",
+    "hobbies": ["gaming", "music", "fitness"],
+    "teamId": "TEAM-RMA",
+    "team": {
+      "id": "TEAM-RMA",
+      "name": "Real Madrid",
+      "country": "Spain",
+      "league": "LaLiga",
+      "stadium": "Santiago Bernabéu",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/real-madrid.png"
+    }
+  },
+  {
+    "id": "PLY-002",
+    "name": "Jude Bellingham",
+    "description": "Box-to-box midfielder with strong ball-carrying, late runs into the box, and high work rate in pressing structures.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "2003-06-29",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/bellingham.png",
+    "position": "Midfielder",
+    "hobbies": ["reading", "recovery training", "fashion"],
+    "teamId": "TEAM-RMA",
+    "team": {
+      "id": "TEAM-RMA",
+      "name": "Real Madrid",
+      "country": "Spain",
+      "league": "LaLiga",
+      "stadium": "Santiago Bernabéu",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/real-madrid.png"
+    }
+  },
+  {
+    "id": "PLY-003",
+    "name": "Vinícius Júnior",
+    "description": "High-volume dribbler and chance creator from the left, dangerous in fast counter-attacks.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "2000-07-12",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/vinicius.png",
+    "position": "Forward",
+    "hobbies": ["streaming", "charity work", "football tennis"],
+    "teamId": "TEAM-RMA",
+    "team": {
+      "id": "TEAM-RMA",
+      "name": "Real Madrid",
+      "country": "Spain",
+      "league": "LaLiga",
+      "stadium": "Santiago Bernabéu",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/real-madrid.png"
+    }
+  },
+  {
+    "id": "PLY-004",
+    "name": "Erling Haaland",
+    "description": "Powerful striker with elite off-ball movement, physical presence in the box, and consistent high-quality shot volume.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "2000-07-21",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/haaland.png",
+    "position": "Forward",
+    "hobbies": ["nutrition", "strength training", "golf"],
+    "teamId": "TEAM-MCI",
+    "team": {
+      "id": "TEAM-MCI",
+      "name": "Manchester City",
+      "country": "England",
+      "league": "Premier League",
+      "stadium": "Etihad Stadium",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/manchester-city.png"
+    }
+  },
+  {
+    "id": "PLY-005",
+    "name": "Kevin De Bruyne",
+    "description": "Creative midfielder recognized for incisive passing, switching play under pressure, and consistent chance creation from half-spaces.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1991-06-28",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/debruyne.png",
+    "position": "Midfielder",
+    "hobbies": ["family time", "cycling", "coffee"],
+    "teamId": "TEAM-NAP",
+    "team": {
+      "id": "TEAM-NAP",
+      "name": "Napoli",
+      "country": "Italy",
+      "league": "Serie A",
+      "stadium": "Stadio Diego Armando Maradona",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/napoli.png"
+    }
+  },
+  {
+    "id": "PLY-006",
+    "name": "Lionel Messi",
+    "description": "Playmaker-forward blending elite close control with vision and final-third decision-making; excels at creating and finishing chances.",
+    "age": 38,
+    "isActive": true,
+    "birthDate": "1987-06-24",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/messi.png",
+    "position": "Forward",
+    "hobbies": ["mate tea", "family", "barbecue"],
+    "teamId": "TEAM-IMCF",
+    "team": {
+      "id": "TEAM-IMCF",
+      "name": "Inter Miami CF",
+      "country": "United States",
+      "league": "MLS",
+      "stadium": "DRV PNK Stadium",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/inter-miami.png"
+    }
+  },
+  {
+    "id": "PLY-007",
+    "name": "Mohamed Salah",
+    "description": "Inverted winger with rapid acceleration, consistent goal threat cutting inside, and strong off-ball timing in the penalty area.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1992-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/salah.png",
+    "position": "Forward",
+    "hobbies": ["fitness", "reading", "community work"],
+    "teamId": "TEAM-LIV",
+    "team": {
+      "id": "TEAM-LIV",
+      "name": "Liverpool",
+      "country": "England",
+      "league": "Premier League",
+      "stadium": "Anfield",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/liverpool.png"
+    }
+  },
+  {
+    "id": "PLY-008",
+    "name": "Harry Kane",
+    "description": "Complete striker combining finishing, link-up play, and strong distribution into runners; effective both in box and deeper zones.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1993-07-28",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/kane.png",
+    "position": "Forward",
+    "hobbies": ["golf", "family", "sports science"],
+    "teamId": "TEAM-FCB",
+    "team": {
+      "id": "TEAM-FCB",
+      "name": "Bayern Munich",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "stadium": "Allianz Arena",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/bayern.png"
+    }
+  },
+  {
+    "id": "PLY-009",
+    "name": "Bukayo Saka",
+    "description": "Wide creator with strong 1v1 ability, intelligent movement to receive between lines, and high defensive work rate.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2001-09-05",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/saka.png",
+    "position": "Forward",
+    "hobbies": ["gaming", "music", "training"],
+    "teamId": "TEAM-ARS",
+    "team": {
+      "id": "TEAM-ARS",
+      "name": "Arsenal",
+      "country": "England",
+      "league": "Premier League",
+      "stadium": "Emirates Stadium",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/arsenal.png"
+    }
+  },
+  {
+    "id": "PLY-010",
+    "name": "Lautaro Martínez",
+    "description": "Aggressive, mobile striker who presses from the front, attacks space early, and finishes decisively from central areas.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1997-08-22",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/lautaro.png",
+    "position": "Forward",
+    "hobbies": ["cooking", "fitness", "travel"],
+    "teamId": "TEAM-INT",
+    "team": {
+      "id": "TEAM-INT",
+      "name": "Inter Milan",
+      "country": "Italy",
+      "league": "Serie A",
+      "stadium": "San Siro",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/inter.png"
+    }
+  },
+  {
+    "id": "PLY-011",
+    "name": "Cristiano Ronaldo",
+    "description": "Veteran forward with elite finishing instincts, strong aerial ability, and a high shot volume; remains a focal point in the final third.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1985-02-05",
+    "imageUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/players/ronaldo.png",
+    "position": "Forward",
+    "hobbies": ["gym", "recovery", "family"],
+    "teamId": "TEAM-ALN",
+    "team": {
+      "id": "TEAM-ALN",
+      "name": "Al Nassr",
+      "country": "Saudi Arabia",
+      "league": "Saudi Pro League",
+      "stadium": "Al-Awwal Park",
+      "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/al-nassr.png"
+    }
+  }
+]

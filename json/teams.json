@@ -1,0 +1,83 @@
+[
+  {
+    "id": "TEAM-RMA",
+    "name": "Real Madrid",
+    "country": "Spain",
+    "league": "LaLiga",
+    "foundedYear": 1902,
+    "stadium": "Santiago Bernabéu",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/real-madrid.png"
+  },
+  {
+    "id": "TEAM-MCI",
+    "name": "Manchester City",
+    "country": "England",
+    "league": "Premier League",
+    "foundedYear": 1880,
+    "stadium": "Etihad Stadium",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/manchester-city.png"
+  },
+  {
+    "id": "TEAM-NAP",
+    "name": "Napoli",
+    "country": "Italy",
+    "league": "Serie A",
+    "foundedYear": 1926,
+    "stadium": "Stadio Diego Armando Maradona",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/napoli.png"
+  },
+  {
+    "id": "TEAM-IMCF",
+    "name": "Inter Miami CF",
+    "country": "United States",
+    "league": "MLS",
+    "foundedYear": 2018,
+    "stadium": "DRV PNK Stadium",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/inter-miami.png"
+  },
+  {
+    "id": "TEAM-LIV",
+    "name": "Liverpool",
+    "country": "England",
+    "league": "Premier League",
+    "foundedYear": 1892,
+    "stadium": "Anfield",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/liverpool.png"
+  },
+  {
+    "id": "TEAM-FCB",
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "league": "Bundesliga",
+    "foundedYear": 1900,
+    "stadium": "Allianz Arena",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/bayern.png"
+  },
+  {
+    "id": "TEAM-ARS",
+    "name": "Arsenal",
+    "country": "England",
+    "league": "Premier League",
+    "foundedYear": 1886,
+    "stadium": "Emirates Stadium",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/arsenal.png"
+  },
+  {
+    "id": "TEAM-INT",
+    "name": "Inter Milan",
+    "country": "Italy",
+    "league": "Serie A",
+    "foundedYear": 1908,
+    "stadium": "San Siro",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/inter.png"
+  },
+  {
+    "id": "TEAM-ALN",
+    "name": "Al Nassr",
+    "country": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "foundedYear": 1955,
+    "stadium": "Al-Awwal Park",
+    "logoUrl": "https://raw.githubusercontent.com/moriani11/dataset-project-webontwikkeling/main/images/teams/al-nassr.png"
+  }
+]
